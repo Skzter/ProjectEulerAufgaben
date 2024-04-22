@@ -28,9 +28,9 @@ public class haupt {
 			System.out.println("Rest " + rest);
 			System.out.println("Rest " + uebertrag);
 			*/
-		for(int i = 0; i < 2; i++) {
+		for(int i = 0; i < 3; i++) {
 			while(input.hasNextLine()) {
-				sum += Character.getNumericValue(input.nextLine().charAt(47));
+				sum += Character.getNumericValue(input.nextLine().charAt(i));
 			}
 			System.out.println(sum);
 		}
