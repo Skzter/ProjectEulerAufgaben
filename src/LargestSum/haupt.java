@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class haupt {
 
 	public static void main(String[] args) throws Exception {
-		File Datei = new File("/home/vincent/Uni/2.Semester/AOP/seminar/ProjectEulerAufgaben/src/LargestSum/zahl.txt");
-		//File DateiW = new File("E:\\Uni\\programmiershit\\eclipse-shit\\eclipse\\ProjectEulerAufgaben\\src\\LargestSum\\zahl.txt");
-		Scanner input = new Scanner(Datei);
+		//File Datei = new File("/home/vincent/Uni/2.Semester/AOP/seminar/ProjectEulerAufgaben/src/LargestSum/zahl.txt");
+		File DateiW = new File("E:\\Uni\\programmiershit\\eclipse-shit\\eclipse\\ProjectEulerAufgaben\\src\\LargestSum\\zahl.txt");
+		Scanner input = new Scanner(DateiW);
 		
 		int sum = 0;
 		int rest = 0;
