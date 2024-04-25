@@ -22,7 +22,7 @@ public class haupt {
 				zahlen[i][j] = (short)Character.getNumericValue(line.charAt(j));
 			}
 		}
-
+		
 		for(int i = 49; i > -1; i--) {
 			sum = 0;
 			for(int j = 0; j < 100; j++) {

@@ -2,7 +2,7 @@ package adsaufgabe1;
 
 public class Testtreiber {
     public static void main (String[] args) {
-	IInversionszahl invz = new Inversionszahl_HTWKLOGIN();
+	IInversionszahl invz = new Inversionszahl_vgoetze1();
 	int inv;
 	
 	// Testfall 1
