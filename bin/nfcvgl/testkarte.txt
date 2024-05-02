@@ -1,0 +1,607 @@
+** TagInfo Scan (version 5.0.0) 24-Apr.-24 23:17:40 **
+Report Type: -- IC INFO ------------------------------
+
+# IC Manufacturer:
+NXP Semiconductors
+
+# IC Type:
+MIFARE DESFire EV1 (MF3ICDH81)
+
+# DESFire Applications:
+InterCard GmbH Kartensysteme, Germany
+InterCard GmbH Kartensysteme, Germany
+InterCard GmbH Kartensysteme, Germany
+InterCard GmbH Kartensysteme, Germany
+InterCard GmbH Kartensysteme, Germany
+InterCard GmbH Kartensysteme, Germany
+InterCard GmbH Kartensysteme, Germany
+
+-- NDEF ------------------------------
+
+# No NDEF Data Storage Present:
+Maximum NDEF storage size after format: 7678 bytes
+
+-- EXTRA ------------------------------
+
+# Memory information:
+Size: 7 kB
+Available: 1.9 kB
+
+# IC Information:
+Capacitance: 70 pF
+
+# DESFire App. ID : ISO-FID : ISO DF-Name:
+05845F : 4500 : 303538343546
+* Contains ISO FIDs: 0001, 0002, 0003, 0004, 0005, 0006, 0007, 0008
+15845F : 4501 : 313538343546
+* Contains ISO FIDs: 0101, 0103, 0104, 0105
+25845F : 4502 : 323538343546
+* Contains ISO FIDs: 0201, 0203, 0204
+35845F : 4503 : 333538343546
+* Contains ISO FIDs: 0301, 0303, 0304
+55845F : 4505 : 353538343546
+* Contains ISO FIDs: 0501, 0502, 0503, 0504, 0505
+65845F : 4506 : 363538343546
+* Contains ISO FIDs: 0601, 0602, 0603, 0604
+75845F : 4507 : 373538343546
+15845F
+* FIDs: 0101, 0103, 0104, 0105
+25845F
+* FIDs: 0201, 0203, 0204
+35845F
+* FIDs: 0301, 0303, 0304
+55845F
+* FIDs: 0501, 0502, 0503, 0504, 0505
+65845F
+* FIDs: 0601, 0602, 0603, 0604
+05845F
+* FIDs: 0001, 0002, 0003, 0004, 0005, 0006, 0007, 0008
+25845F
+* FIDs: 0201, 0203, 0204
+35845F
+* FIDs: 0301, 0303, 0304
+55845F
+* FIDs: 0501, 0502, 0503, 0504, 0505
+65845F
+* FIDs: 0601, 0602, 0603, 0604
+05845F
+* FIDs: 0001, 0002, 0003, 0004, 0005, 0006, 0007, 0008
+15845F
+* FIDs: 0101, 0103, 0104, 0105
+35845F
+* FIDs: 0301, 0303, 0304
+55845F
+* FIDs: 0501, 0502, 0503, 0504, 0505
+65845F
+* FIDs: 0601, 0602, 0603, 0604
+05845F
+* FIDs: 0001, 0002, 0003, 0004, 0005, 0006, 0007, 0008
+15845F
+* FIDs: 0101, 0103, 0104, 0105
+25845F
+* FIDs: 0201, 0203, 0204
+55845F
+* FIDs: 0501, 0502, 0503, 0504, 0505
+65845F
+* FIDs: 0601, 0602, 0603, 0604
+05845F
+* FIDs: 0001, 0002, 0003, 0004, 0005, 0006, 0007, 0008
+15845F
+* FIDs: 0101, 0103, 0104, 0105
+25845F
+* FIDs: 0201, 0203, 0204
+35845F
+* FIDs: 0301, 0303, 0304
+65845F
+* FIDs: 0601, 0602, 0603, 0604
+05845F
+* FIDs: 0001, 0002, 0003, 0004, 0005, 0006, 0007, 0008
+15845F
+* FIDs: 0101, 0103, 0104, 0105
+25845F
+* FIDs: 0201, 0203, 0204
+35845F
+* FIDs: 0301, 0303, 0304
+55845F
+* FIDs: 0501, 0502, 0503, 0504, 0505
+05845F
+* FIDs: 0001, 0002, 0003, 0004, 0005, 0006, 0007, 0008
+15845F
+* FIDs: 0101, 0103, 0104, 0105
+25845F
+* FIDs: 0201, 0203, 0204
+35845F
+* FIDs: 0301, 0303, 0304
+55845F
+* FIDs: 0501, 0502, 0503, 0504, 0505
+65845F
+* FIDs: 0601, 0602, 0603, 0604
+
+# Version information:
+Vendor ID: NXP
+Hardware info:
+* Type/subtype: 0x01/0x02
+*  Major Version: 0x01
+*  Minor Version: 0x00
+* Storage size: 8192 bytes
+* Protocol: ISO/IEC 14443-4
+Software info:
+* Type/subtype: 0x01/0x01
+*  Major Version: 0x01
+*  Minor Version: 0x04
+* Storage size: 8192 bytes
+* Protocol: ISO/IEC 14443-4
+Production date: week 37, 2020
+
+# TagInfo Version:
+Version :5.0.0
+
+# Device Info:
+Device Model :samsung ( SM-G950F )
+Android OS Version :9
+
+-- FULL SCAN ------------------------------
+
+# Technologies Supported:
+ISO/IEC 7816-4 compatible
+Native DESFire APDU framing
+ISO/IEC 14443-4 (Type A) compatible
+ISO/IEC 14443-3 (Type A) compatible
+ISO/IEC 14443-2 (Type A) compatible
+
+# Android Technology Information:
+Tag description:
+* TAG: Tech [android.nfc.tech.IsoDep, android.nfc.tech.NfcA, android.nfc.tech.NdefFormatable]
+* Maximum transceive length: 65279 bytes
+* Default maximum transceive time-out: 2000 ms
+* Extended length APDUs supported
+* Maximum transceive length: 253 bytes
+* Default maximum transceive time-out: 618 ms
+
+
+# Detailed Protocol Information:
+ID: 04:09:38:F2:67:63:80
+ATQA: 0x4403
+SAK: 0x20
+ATS: 0x1C
+
+# Memory Content:
+PICC level (Application ID 0x000000)
+* PICC key configuration:
+  - AES key
+  - PICC key changeable
+  - PICC key required for:
+    ~ directory list access: no
+    ~ create/delete applications: yes
+  - Configuration changeable
+  - PICC key version: 1
+
+Application ID 0x5F8405 (InterCard GmbH Kartensysteme, Germany)
+* Key configuration:
+  - 6 AES keys
+  - Master key changeable
+  - Master key required for:
+    ~ directory list access: no
+    ~ create/delete files: yes
+  - Configuration changeable
+  - Master key required for changing a key
+  - Key versions:
+    ~ Master key: 1
+    ~ Key #1: 1
+    ~ Key #2: 1
+    ~ Key #3: 1
+    ~ Key #4: 1
+    ~ Key #5: 1
+
+  - File ID 0x00: Backup data, 32 bytes
+    ~ Communication: plain
+    ~ Read key: key #1
+    ~ Write key: key #1
+    ~ Read/Write key: key #3
+    ~ Change key: master key
+    ~ (No access)
+
+  - File ID 0x01: Standard data, 32 bytes
+    ~ Communication: plain
+    ~ Read key: key #1
+    ~ Write key: master key
+    ~ Read/Write key: blocked
+    ~ Change key: master key
+    ~ (No access)
+
+  - File ID 0x02: Backup data, 32 bytes
+    ~ Communication: plain
+    ~ Read key: key #1
+    ~ Write key: master key
+    ~ Read/Write key: key #3
+    ~ Change key: master key
+    ~ (No access)
+
+  - File ID 0x03: Backup data, 32 bytes
+    ~ Communication: plain
+    ~ Read key: key #1
+    ~ Write key: key #2
+    ~ Read/Write key: key #3
+    ~ Change key: master key
+    ~ (No access)
+
+  - File ID 0x04: Cyclic record file, 1 records
+    ~ Record size: 32 bytes
+    ~ Max. no. of records: 6
+    ~ Communication: plain
+    ~ Read key: key #1
+    ~ Write key: key #1
+    ~ Read/Write key: key #3
+    ~ Change key: master key
+    ~ (No access)
+
+  - File ID 0x05: Backup data, 32 bytes
+    ~ Communication: encrypted
+    ~ Read key: key #4
+    ~ Write key: key #4
+    ~ Read/Write key: master key
+    ~ Change key: master key
+    ~ (No access)
+
+  - File ID 0x06: Standard data, 160 bytes
+    ~ Communication: plain
+    ~ Read key: key #5
+    ~ Write key: key #5
+    ~ Read/Write key: key #3
+    ~ Change key: master key
+    ~ (No access)
+
+  - File ID 0x07: Standard data, 32 bytes
+    ~ Communication: plain
+    ~ Read key: free access
+    ~ Write key: master key
+    ~ Read/Write key: blocked
+    ~ Change key: master key
+    ~ Contents:
+
+[0000] 3F 07 66 08 9F 05 80 00 01 00 00 00 00 00 00 00 |?.f.............|
+
+[0010] 00 00 00 00 00 00 00 00 00 00 00 00 00 00 DC 34 |...............4|
+
+
+Application ID 0x5F8415 (InterCard GmbH Kartensysteme, Germany)
+* Key configuration:
+  - 6 AES keys
+  - Master key changeable
+  - Master key required for:
+    ~ directory list access: no
+    ~ create/delete files: yes
+  - Configuration changeable
+  - Master key required for changing a key
+  - Key versions:
+    ~ Master key: 1
+    ~ Key #1: 1
+    ~ Key #2: 1
+    ~ Key #3: 1
+    ~ Key #4: 1
+    ~ Key #5: 1
+
+  - File ID 0x00: Backup data, 32 bytes
+    ~ Communication: plain
+    ~ Read key: free access
+    ~ Write key: key #5
+    ~ Read/Write key: key #5
+    ~ Change key: master key
+    ~ Contents:
+
+[0000] 45 55 52 03 00 00 00 00 00 00 00 00 00 00 00 00 |EUR.............|
+
+[0010] 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 |................|
+
+
+  - File ID 0x01: Value data file
+    ~ Lower limit: 0
+    ~ Upper limit: 1000000
+    ~ Limited credit allowed
+    ~ Max. limited credit value: 2100
+    ~ Communication: plain
+    ~ Read key: blocked
+    ~ Write key: key #1
+    ~ Read/Write key: key #2
+    ~ Change key: master key
+    ~ Contents:
+
+[0000] 6E 28 00 00                                     |n(..            |
+
+
+  - File ID 0x02: Cyclic record file, 10 records
+    ~ Record size: 32 bytes
+    ~ Max. no. of records: 11
+    ~ Communication: plain
+    ~ Read key: key #3
+    ~ Write key: key #4
+    ~ Read/Write key: key #1
+    ~ Change key: master key
+    ~ (No access)
+
+  - File ID 0x03: Cyclic record file, 5 records
+    ~ Record size: 32 bytes
+    ~ Max. no. of records: 6
+    ~ Communication: plain
+    ~ Read key: key #3
+    ~ Write key: master key
+    ~ Read/Write key: key #1
+    ~ Change key: master key
+    ~ (No access)
+
+  - File ID 0x04: Backup data, 32 bytes
+    ~ Communication: plain
+    ~ Read key: blocked
+    ~ Write key: blocked
+    ~ Read/Write key: key #1
+    ~ Change key: master key
+    ~ (No access)
+
+Application ID 0x5F8425 (InterCard GmbH Kartensysteme, Germany)
+* Key configuration:
+  - 6 AES keys
+  - Master key changeable
+  - Master key required for:
+    ~ directory list access: no
+    ~ create/delete files: yes
+  - Configuration changeable
+  - Master key required for changing a key
+  - Key versions:
+    ~ Master key: 1
+    ~ Key #1: 1
+    ~ Key #2: 1
+    ~ Key #3: 1
+    ~ Key #4: 1
+    ~ Key #5: 1
+
+  - File ID 0x00: Backup data, 32 bytes
+    ~ Communication: plain
+    ~ Read key: free access
+    ~ Write key: key #5
+    ~ Read/Write key: key #5
+    ~ Change key: master key
+    ~ Contents:
+
+[0000] 58 58 58 00 00 00 00 00 00 00 00 00 00 00 00 00 |XXX.............|
+
+[0010] 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 |................|
+
+
+  - File ID 0x01: Value data file
+    ~ Lower limit: 0
+    ~ Upper limit: 10000000
+    ~ Limited credit allowed
+    ~ Max. limited credit value: 0
+    ~ Communication: plain
+    ~ Read key: blocked
+    ~ Write key: key #1
+    ~ Read/Write key: key #2
+    ~ Change key: master key
+    ~ Contents:
+
+[0000] 00 00 00 00                                     |....            |
+
+
+  - File ID 0x02: Cyclic record file, 1 records
+    ~ Record size: 32 bytes
+    ~ Max. no. of records: 11
+    ~ Communication: plain
+    ~ Read key: key #3
+    ~ Write key: key #4
+    ~ Read/Write key: key #1
+    ~ Change key: master key
+    ~ (No access)
+
+  - File ID 0x03: Cyclic record file, 1 records
+    ~ Record size: 32 bytes
+    ~ Max. no. of records: 6
+    ~ Communication: plain
+    ~ Read key: key #3
+    ~ Write key: master key
+    ~ Read/Write key: key #1
+    ~ Change key: master key
+    ~ (No access)
+
+Application ID 0x5F8435 (InterCard GmbH Kartensysteme, Germany)
+* Key configuration:
+  - 6 AES keys
+  - Master key changeable
+  - Master key required for:
+    ~ directory list access: no
+    ~ create/delete files: yes
+  - Configuration changeable
+  - Master key required for changing a key
+  - Key versions:
+    ~ Master key: 1
+    ~ Key #1: 1
+    ~ Key #2: 1
+    ~ Key #3: 1
+    ~ Key #4: 1
+    ~ Key #5: 1
+
+  - File ID 0x00: Backup data, 32 bytes / hahahihi
+    ~ Communication: plain
+    ~ Read key: free access
+    ~ Write key: key #5
+    ~ Read/Write key: key #5
+    ~ Change key: master key
+    ~ Contents:
+
+[0000] 45 55 52 03 00 00 00 00 00 00 00 00 00 00 00 00 |EUR.............|
+
+[0010] 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 |................|
+
+
+  - File ID 0x01: Value data file
+    ~ Lower limit: 0
+    ~ Upper limit: 1000000
+    ~ Limited credit allowed
+    ~ Max. limited credit value: 100
+    ~ Communication: plain
+    ~ Read key: blocked
+    ~ Write key: key #1
+    ~ Read/Write key: key #2
+    ~ Change key: master key
+    ~ Contents:
+
+[0000] 84 03 00 00                                     |....            |
+
+
+  - File ID 0x02: Cyclic record file, 6 records
+    ~ Record size: 32 bytes
+    ~ Max. no. of records: 11
+    ~ Communication: plain
+    ~ Read key: key #3
+    ~ Write key: key #4
+    ~ Read/Write key: key #1
+    ~ Change key: master key
+    ~ (No access)
+
+  - File ID 0x03: Cyclic record file, 2 records
+    ~ Record size: 32 bytes
+    ~ Max. no. of records: 6
+    ~ Communication: plain
+    ~ Read key: key #3
+    ~ Write key: master key
+    ~ Read/Write key: key #1
+    ~ Change key: master key
+    ~ (No access)
+
+Application ID 0x5F8455 (InterCard GmbH Kartensysteme, Germany)
+* Key configuration:
+  - 10 AES keys
+  - Master key changeable
+  - Master key required for:
+    ~ directory list access: no
+    ~ create/delete files: yes
+  - Configuration changeable
+  - Master key required for changing a key
+  - Key versions:
+    ~ Master key: 1
+    ~ Key #1: 1
+    ~ Key #2: 1
+    ~ Key #3: 1
+    ~ Key #4: 1
+    ~ Key #5: 1
+    ~ Key #6: 1
+    ~ Key #7: 1
+    ~ Key #8: 1
+    ~ Key #9: 1
+
+  - File ID 0x00: Standard data, 32 bytes
+    ~ Communication: encrypted
+    ~ Read key: key #7
+    ~ Write key: blocked
+    ~ Read/Write key: key #8
+    ~ Change key: master key
+    ~ (No access)
+
+  - File ID 0x01: Backup data, 32 bytes
+    ~ Communication: encrypted
+    ~ Read key: key #7
+    ~ Write key: blocked
+    ~ Read/Write key: key #9
+    ~ Change key: master key
+    ~ (No access)
+
+  - File ID 0x02: Backup data, 32 bytes
+    ~ Communication: encrypted
+    ~ Read key: key #1
+    ~ Write key: blocked
+    ~ Read/Write key: key #2
+    ~ Change key: master key
+    ~ (No access)
+
+  - File ID 0x03: Standard data, 64 bytes
+    ~ Communication: encrypted
+    ~ Read key: key #3
+    ~ Write key: blocked
+    ~ Read/Write key: key #4
+    ~ Change key: master key
+    ~ (No access)
+
+  - File ID 0x04: Standard data, 64 bytes
+    ~ Communication: encrypted
+    ~ Read key: key #5
+    ~ Write key: blocked
+    ~ Read/Write key: key #6
+    ~ Change key: master key
+    ~ (No access)
+
+Application ID 0x5F8465 (InterCard GmbH Kartensysteme, Germany)
+* Key configuration:
+  - 14 AES keys
+  - Master key changeable
+  - Master key required for:
+    ~ directory list access: no
+    ~ create/delete files: yes
+  - Configuration changeable
+  - Master key required for changing a key
+  - Key versions:
+    ~ Master key: 1
+    ~ Key #1: 1
+    ~ Key #2: 1
+    ~ Key #3: 1
+    ~ Key #4: 1
+    ~ Key #5: 1
+    ~ Key #6: 1
+    ~ Key #7: 1
+    ~ Key #8: 1
+    ~ Key #9: 1
+    ~ Key #10: 1
+    ~ Key #11: 1
+    ~ Key #12: 1
+    ~ Key #13: 1
+
+  - File ID 0x00: Backup data, 64 bytes
+    ~ Communication: encrypted
+    ~ Read key: key #1
+    ~ Write key: blocked
+    ~ Read/Write key: key #2
+    ~ Change key: master key
+    ~ (No access)
+
+  - File ID 0x01: Backup data, 128 bytes
+    ~ Communication: plain
+    ~ Read key: key #3
+    ~ Write key: blocked
+    ~ Read/Write key: key #4
+    ~ Change key: master key
+    ~ (No access)
+
+  - File ID 0x02: Standard data, 128 bytes
+    ~ Communication: plain
+    ~ Read key: key #5
+    ~ Write key: blocked
+    ~ Read/Write key: key #6
+    ~ Change key: master key
+    ~ (No access)
+
+  - File ID 0x03: Backup data, 64 bytes
+    ~ Communication: encrypted
+    ~ Read key: key #7
+    ~ Write key: blocked
+    ~ Read/Write key: key #8
+    ~ Change key: master key
+    ~ (No access)
+
+Application ID 0x5F8475 (InterCard GmbH Kartensysteme, Germany)
+* Key configuration:
+  - 7 AES keys
+  - Master key changeable
+  - Master key required for:
+    ~ directory list access: no
+    ~ create/delete files: yes
+  - Configuration changeable
+  - Master key required for changing a key
+  - Key versions:
+    ~ Master key: 1
+    ~ Key #1: 1
+    ~ Key #2: 1
+    ~ Key #3: 1
+    ~ Key #4: 1
+    ~ Key #5: 1
+    ~ Key #6: 1
+* No files present
+
+--------------------------------------
