@@ -23,17 +23,8 @@ public class Inversionszahl_vgoetze1 implements IInversionszahl {
     			feld[k] = feld[k-1];
     			k -= 1;
     		}
-    		feld[k] = temp;
-    			 
-    		
-    	}
-    	
-    	for(int i = 0; i < feld.length; i++) {
-    		System.out.println(feld[i]);
-    	}
-    	
-    	System.out.println(vgl("aba", "abab"));
-    
+    		feld[k] = temp;	
+    	}    	
     	return inversionszahl;
     }
 
