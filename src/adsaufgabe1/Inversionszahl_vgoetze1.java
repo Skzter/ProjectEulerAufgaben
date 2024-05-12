@@ -25,6 +25,10 @@ public class Inversionszahl_vgoetze1 implements IInversionszahl {
     		}
     		feld[k] = temp;	
     	}    	
+    	
+    	for(int i = 0; i < feld.length; i++) {
+    		System.out.print(feld[i] + " ");
+    	}
     	return inversionszahl;
     }
 
