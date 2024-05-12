@@ -25,10 +25,6 @@ public class Inversionszahl_vgoetze1 implements IInversionszahl {
     		}
     		feld[k] = temp;	
     	}    	
-    	
-    	for(int i = 0; i < feld.length; i++) {
-    		System.out.print(feld[i] + " ");
-    	}
     	return inversionszahl;
     }
 
@@ -36,6 +32,7 @@ public class Inversionszahl_vgoetze1 implements IInversionszahl {
 		int temp = wort.indexOf("a");
 		if(temp == -1) {
 			temp = 999999;
+			return temp;
 		}
     	return temp;
     }

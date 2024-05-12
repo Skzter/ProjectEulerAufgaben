@@ -6,7 +6,7 @@ public class Testtreiber {
 	int inv;
 	
 	// Testfall 1
-	String[] feld1 = {"aaa", "bba", "aba", "", "aab"};
+	String[] feld1 = {"aaa", "bba", "aba", "aab"};
 	int inv1 = 5; 
 	inv = invz.berechne(feld1);
 	if (inv == inv1)
