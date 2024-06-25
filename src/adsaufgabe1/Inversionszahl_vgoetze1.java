@@ -32,6 +32,7 @@ public class Inversionszahl_vgoetze1 implements IInversionszahl {
 		int temp = wort.indexOf("a");
 		if(temp == -1) {
 			temp = 999999;
+			return temp;
 		}
     	return temp;
     }
